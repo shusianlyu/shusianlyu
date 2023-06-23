@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+  Hi, I am a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I am a highly motivated and detail-oriented entry-level Software engineer with a strong foundation in programming and problem-solving. My proficiency lies in languages such as Python, Java, C++, C, and Javascript. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture.
+</p> 
+- 🔭 I’m currently working on spofity profile project<br />
+- 🌱 I’m currently learning Full-stack development<br />
+- 💬 Ask me about music, movie and forex trading 📈<br />
+- 📫 How to reach me: [email](mailto:shusianlyu@gmail.com) <br />
+- 😄 Pronouns: she/her/hers<br />
+- ⚡ Fun fact: I love to drive alone at night<br />
 <!--
 **shusianlyu/shusianlyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
