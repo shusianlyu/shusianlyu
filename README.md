@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on spofity profile project<br />
 - 🌱 I’m currently learning Full-stack development<br />
 - 💬 Ask me about music, movie and forex trading 📈<br />
-- 📫 How to reach me: [email](mailto:shusianlyu@gmail.com) <br />
+- 📫 How to reach me: <a href="mailto:shusianlyu@gmail.com">Email Me</a> <br />
 - 😄 Pronouns: she/her/hers<br />
 - ⚡ Fun fact: I love to drive alone at night<br />
 <!--
