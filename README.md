@@ -1,8 +1,13 @@
 ### Hi there 👋👽
 
 <p align="center">
+  Hi, I am a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture 🏔️.
+</p>
+<!---
+<p align="center">
   Hi, I am a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I am a highly motivated and detail-oriented entry-level Software engineer with a strong foundation in programming and problem-solving. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture.
 </p> <br />
+---->
 
 <p align="center">
 	<img src="https://badges.pufler.dev/repos/shusianlyu"/> 
@@ -10,6 +15,14 @@
  	<img src="https://badges.pufler.dev/updated/shusianlyu/portfolio" />
 	<img src="https://badges.pufler.dev/visits/shusianlyu/shusianlyu" />
 </p>
+
+
+- 🔭 &nbsp;I’m currently working on spofity profile project<br />
+- 🌱 &nbsp;I’m currently learning Full-stack development<br />
+- 💬 &nbsp;Ask me about music, movie and forex trading 📈<br />
+- 😄 &nbsp;Pronouns: she/her/hers<br />
+- ⚡ &nbsp;Fun fact: I love to drive alone at night 🚗 <br /><br />
+
 
 <h2 align="center">Technology Stack</h2>
 
@@ -50,14 +63,13 @@
 
 ![Snake animation](https://github.com/shusianlyu/shusianlyu/blob/output/github-contribution-grid-snake.svg)
 
-
- 
 <br />
 
-- 🔭 &nbsp;I’m currently working on spofity profile project<br />
-- 🌱 &nbsp;I’m currently learning Full-stack development<br />
-- 💬 &nbsp;Ask me about music, movie and forex trading 📈<br />
-- 😄 &nbsp;Pronouns: she/her/hers<br />
-- ⚡ &nbsp;Fun fact: I love to drive alone at night 🚗 <br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shusianlyu&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">My Github Stats</h2>
+<br />
+<p align = "center">
+ 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shusianlyu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusianlyu&hide=html,css&theme=radical">
+</p> 
+
