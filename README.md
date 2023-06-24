@@ -1,7 +1,7 @@
 ### Hi there 👋👽
 
 <p align="center">
-  Hi, I am Jessie, a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture 🏔️.
+  I am Jessie, a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture 🏔️.
 </p>
 <!---
 <p align="center">
@@ -69,7 +69,7 @@
 <h2 align="center">My Github Stats</h2>
 <br />
 <p align = "center">
- 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shusianlyu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=shusianlyu&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shusianlyu&hide=html,css&theme=radical">
 </p> 
 
