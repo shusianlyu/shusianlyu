@@ -1,42 +1,57 @@
-### Hi there 👋
+### Hi there 👋👽
 
 <p align="center">
   Hi, I am a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I am a highly motivated and detail-oriented entry-level Software engineer with a strong foundation in programming and problem-solving. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture.
-</p> 
-- 🔭 I’m currently working on spofity profile project<br />
-- 🌱 I’m currently learning Full-stack development<br />
-- 💬 Ask me about music, movie and forex trading 📈<br />
-- 📫 How to reach me: <a href="mailto:shusianlyu@gmail.com">Email Me</a> <br />
-- 😄 Pronouns: she/her/hers<br />
-- ⚡ Fun fact: I love to drive alone at night<br /><br />
+</p> <br />
 
-<h1 align="center">Technology Stack</h1>
+<p align="center">
+	<img src="https://badges.pufler.dev/repos/shusianlyu"/> 
+	<img src="https://badges.pufler.dev/commits/monthly/shusianlyu" />
+ 	<img src="https://badges.pufler.dev/updated/shusianlyu/portfolio" />
+	<img src="https://badges.pufler.dev/visits/shusianlyu/shusianlyu" />
+</p>
+
+<h2 align="center">Technology Stack</h2>
+
 <div align="center">
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+	<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+	<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+	<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+	<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ 	<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+	<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+	<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+	<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>	
 </div>
 
+
+<h2 align="center">Reach me out on </h2>
+<p align="center">
+<a href="mailto: shusianlyu@gmail.com">
+<img src="https://img.shields.io/badge/-shusianlyu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shusianlyu@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/shusianlyu/">
+ <img src="https://img.shields.io/badge/-shusianlyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shusianlyu/"/>
+</a>
+
+<a href="https://www.instagram.com/jessiielu/">
+ <img src="https://img.shields.io/badge/-shusianlyu-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jessiielu/"/>
+</a>
+</p>
+
+
+<h2 align="center">
+  My Contribution Graph
+</h2>
+
+- 🔭 &nbsp;I’m currently working on spofity profile project<br />
+- 🌱 &nbsp;I’m currently learning Full-stack development<br />
+- 💬 &nbsp;Ask me about music, movie and forex trading 📈<br />
+- 😄 &nbsp;Pronouns: she/her/hers<br />
+- ⚡ &nbsp;Fun fact: I love to drive alone at night 🚗 <br /><br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shusianlyu&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**shusianlyu/shusianlyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
