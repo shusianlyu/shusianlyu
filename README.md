@@ -29,7 +29,7 @@
 </div>
 
 
-<h2 align="center">Reach me out on </h2>
+<h2 align="center">Reach me out via </h2>
 <p align="center">
 <a href="mailto: shusianlyu@gmail.com">
 <img src="https://img.shields.io/badge/-shusianlyu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shusianlyu@gmail.com"/>
