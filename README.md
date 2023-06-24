@@ -1,7 +1,7 @@
 ### Hi there 👋👽
 
 <p align="center">
-  Hi, I am a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture 🏔️.
+  Hi, I am Jessie, a recent computer science bachelor's graduate 👩🏻‍💻 from San Jose State University with two years of experience in software development. I have a passion for learning and working across new technologies and domains 🎯. I am now actively seeking an opportunity to contribute to a dynamic software development team where I can further enhance my skills in software engineering. Apart from that I also love to travel, workout, reading and go on an advanture 🏔️.
 </p>
 <!---
 <p align="center">
@@ -16,13 +16,13 @@
 	<img src="https://badges.pufler.dev/visits/shusianlyu/shusianlyu" />
 </p>
 
-
+<!---
 - 🔭 &nbsp;I’m currently working on spofity profile project<br />
 - 🌱 &nbsp;I’m currently learning Full-stack development<br />
 - 💬 &nbsp;Ask me about music, movie and forex trading 📈<br />
 - 😄 &nbsp;Pronouns: she/her/hers<br />
 - ⚡ &nbsp;Fun fact: I love to drive alone at night 🚗 <br /><br />
-
+---->
 
 <h2 align="center">Technology Stack</h2>
 
