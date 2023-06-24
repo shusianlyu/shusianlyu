@@ -47,9 +47,9 @@
 <h2 align="center">
   My Contribution Graph
 </h2>
-<p align="center">
-  <img src="https://github.com/shusianlyu/shusianlyu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+![Snake animation](https://github.com/shusianlyu/shusianlyu/blob/output/github-contribution-grid-snake.svg)
+
 
  
 <br />
