@@ -47,6 +47,12 @@
 <h2 align="center">
   My Contribution Graph
 </h2>
+<p align="center">
+  <img src="https://github.com/shusianlyu/shusianlyu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+ 
+<br />
 
 - 🔭 &nbsp;I’m currently working on spofity profile project<br />
 - 🌱 &nbsp;I’m currently learning Full-stack development<br />
