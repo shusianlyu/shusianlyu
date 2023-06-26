@@ -12,7 +12,7 @@
 <p align="center">
 	<img src="https://badges.pufler.dev/repos/shusianlyu"/> 
 	<img src="https://badges.pufler.dev/commits/monthly/shusianlyu" />
- 	<img src="https://badges.pufler.dev/updated/shusianlyu/portfolio" />
+ 	<img src="https://badges.pufler.dev/updated/shusianlyu/research_web" />
 	<img src="https://badges.pufler.dev/visits/shusianlyu/shusianlyu" />
 </p>
 
