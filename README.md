@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://www.instagram.com/jessiielu/">
- <img src="https://img.shields.io/badge/-shusianlyu-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jessiielu/"/>
+ <img src="https://img.shields.io/badge/-jessiielu-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jessiielu/"/>
 </a>
 </p>
 
