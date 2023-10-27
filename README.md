@@ -57,6 +57,7 @@
 </p>
 
 
+<!---
 <h2 align="center">
   My Contribution Graph
 </h2>
@@ -64,6 +65,7 @@
 ![Snake animation](https://github.com/shusianlyu/shusianlyu/blob/output/github-contribution-grid-snake.svg)
 
 <br />
+--->
 
 
 <h2 align="center">My Github Stats</h2>
